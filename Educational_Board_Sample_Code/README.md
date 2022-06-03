@@ -9,7 +9,7 @@ This repository is on Updateing process.
 
 ## To Do List 
 - Seven Segment
-- Digital Input Reading (push bottom detection)
+- Digital Input Reading (push button detection)
 - External Interrupt (Digital Input interrupt)  
 (This list will be complete ASAP)
 
